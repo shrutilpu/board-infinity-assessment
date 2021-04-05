@@ -1,0 +1,18 @@
+.SearchContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 350px;
+    height: 100%;
+  }
+  input{
+    text-align: center;
+    padding: 5px;
+    background-color: aliceblue;
+  }
+  .SearchIcon{
+    background-color: black;
+    width: fit-content;
+    height: fit-content;
+    align-items: center;
+  }
